@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yahztee/static/css/main.8f86418a.chunk.css",
+    "main.js": "/yahztee/static/js/main.68e8e510.chunk.js",
+    "main.js.map": "/yahztee/static/js/main.68e8e510.chunk.js.map",
+    "runtime-main.js": "/yahztee/static/js/runtime-main.59bb50fb.js",
+    "runtime-main.js.map": "/yahztee/static/js/runtime-main.59bb50fb.js.map",
+    "static/css/2.71acd7af.chunk.css": "/yahztee/static/css/2.71acd7af.chunk.css",
+    "static/js/2.9f032e77.chunk.js": "/yahztee/static/js/2.9f032e77.chunk.js",
+    "static/js/2.9f032e77.chunk.js.map": "/yahztee/static/js/2.9f032e77.chunk.js.map",
+    "index.html": "/yahztee/index.html",
+    "precache-manifest.72200c20203f90bfb8688f00311123e3.js": "/yahztee/precache-manifest.72200c20203f90bfb8688f00311123e3.js",
+    "service-worker.js": "/yahztee/service-worker.js",
+    "static/css/2.71acd7af.chunk.css.map": "/yahztee/static/css/2.71acd7af.chunk.css.map",
+    "static/css/main.8f86418a.chunk.css.map": "/yahztee/static/css/main.8f86418a.chunk.css.map",
+    "static/js/2.9f032e77.chunk.js.LICENSE.txt": "/yahztee/static/js/2.9f032e77.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/yahztee/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59bb50fb.js",
+    "static/css/2.71acd7af.chunk.css",
+    "static/js/2.9f032e77.chunk.js",
+    "static/css/main.8f86418a.chunk.css",
+    "static/js/main.68e8e510.chunk.js"
+  ]
+}
